@@ -1,0 +1,9 @@
+C:\Users\Francisco\source\repos\Test\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Francisco\source\repos\Test\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Francisco\source\repos\Test\Bussiness\bin\Debug\Data.dll
+C:\Users\Francisco\source\repos\Test\Bussiness\bin\Debug\Data.pdb
+C:\Users\Francisco\source\repos\Test\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Test\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Test\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Francisco\source\repos\Test\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Francisco\source\repos\Test\Bussiness\obj\Debug\Bussiness.pdb

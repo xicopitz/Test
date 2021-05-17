@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Francisco\\source\\repos\\Test\\Test1\\Test1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Francisco\\source\\repos\\Test\\Bussiness\\Bussiness.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Francisco\\source\\repos\\Test\\Bussiness\\Bussiness.csproj",
+        "projectName": "Bussiness",
+        "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Bussiness\\Bussiness.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Francisco\\source\\repos\\Test\\CRM\\CRM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Francisco\\source\\repos\\Test\\CRM\\CRM.csproj",
+        "projectName": "CRM",
+        "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\CRM\\CRM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Francisco\\source\\repos\\Test\\Database\\Database.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Francisco\\source\\repos\\Test\\Database\\Database.csproj",
+        "projectName": "Database",
+        "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Database\\Database.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Francisco\\source\\repos\\Test\\Test1\\Test1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Francisco\\source\\repos\\Test\\Test1\\Test1.csproj",
+        "projectName": "Test1",
+        "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Test1\\Test1.csproj",
+        "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Test1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Francisco\\source\\repos\\Test\\Bussiness\\Bussiness.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Bussiness\\Bussiness.csproj"
+              },
+              "C:\\Users\\Francisco\\source\\repos\\Test\\CRM\\CRM.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\CRM\\CRM.csproj"
+              },
+              "C:\\Users\\Francisco\\source\\repos\\Test\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Database\\Database.csproj"
+              },
+              "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\source\\repos\\Test\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

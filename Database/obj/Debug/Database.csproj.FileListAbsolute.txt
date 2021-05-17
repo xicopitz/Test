@@ -1,0 +1,9 @@
+C:\Users\Francisco\source\repos\Test\Database\bin\Debug\Database.dll
+C:\Users\Francisco\source\repos\Test\Database\bin\Debug\Database.pdb
+C:\Users\Francisco\source\repos\Test\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Test\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Test\Database\obj\Debug\Database.dll
+C:\Users\Francisco\source\repos\Test\Database\obj\Debug\Database.pdb
+C:\Users\Francisco\source\repos\Test\Database\bin\Debug\Data.dll
+C:\Users\Francisco\source\repos\Test\Database\bin\Debug\Data.pdb
+C:\Users\Francisco\source\repos\Test\Database\obj\Debug\Database.csproj.CopyComplete

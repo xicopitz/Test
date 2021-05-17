@@ -1,0 +1,9 @@
+C:\Users\Francisco\source\repos\Test\CRM\bin\Debug\CRM.dll
+C:\Users\Francisco\source\repos\Test\CRM\bin\Debug\CRM.pdb
+C:\Users\Francisco\source\repos\Test\CRM\bin\Debug\Data.dll
+C:\Users\Francisco\source\repos\Test\CRM\bin\Debug\Data.pdb
+C:\Users\Francisco\source\repos\Test\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Test\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Test\CRM\obj\Debug\CRM.csproj.CopyComplete
+C:\Users\Francisco\source\repos\Test\CRM\obj\Debug\CRM.dll
+C:\Users\Francisco\source\repos\Test\CRM\obj\Debug\CRM.pdb
